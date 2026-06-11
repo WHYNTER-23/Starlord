@@ -1,7 +1,7 @@
-# IMPERATOR
+# STARLORD
 ## Web Novel Master Document
 
-> **Status:** Active Development
+> **Status:** Active
 > **Target Chapter Count:** 100 chapters
 > **Language:** English
 > **Version:** v1.0
@@ -29,11 +29,10 @@
 
 | Field | Detail |
 |---|---|
-| Title | Imperator |
-| Main Genre | Sci-Fi, Comedy, Geopolitics, Kingdom Building |
-| Sub Genre | Harem, War, Strategic Battle, Adventure, Reincarnation, R-18, Conquest, Advanced Technology, Magic, Monsters, Fantasy World, Male Protagonist, Medieval, Modern Knowledge, Business Management, Economics, Dragons, Elves, Family, Fantasy Creatures, Magical Technology, Scientific Technology, Military, Army, Merchants, Kingdoms, Depiction of Cruelty, World Travel, Artificial Intelligence, Protagonist Strong from the Start, Transport to Another World, Genetic Modification, Biotechnology, Android, Beautiful Female Lead, Firearms, Master-Servant Relationship, Slavery, Technological Gap, War Records, Domestic Affairs, Beastkin, Arms Dealer, Hikikomori, Transported Modern Structure |
+| Title | STARLORD |
+| Genre | Sci-Fi, Comedy, Geopolitics, Kingdom Building, Harem |
 | Setting | World of Orion, a fantasy world with magic-based civilization |
-| Protagonist | Aurelianus Augustus |
+| Protagonist | Itsuo Yamashiro |
 | Core Concept | A grand strategy game player wakes up as his own in-game character, leading his scientific nation that has been transported wholesale into a fantasy world |
 | Tone | Strategic and geopolitical with consistent comedy through the protagonist's reluctant and self-justifying personality |
 | Target Length | 100 Chapters |
