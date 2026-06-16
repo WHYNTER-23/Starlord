@@ -2,10 +2,9 @@
 ## Web Novel Master Document
 
 > **Status:** Active
-> **Target Chapter Count:** 100 chapters
 > **Language:** English
 > **Version:** v1.0
-> **Last Updated:** June 11, 2026
+> **Last Updated:** June 16, 2026
 
 ---
 
@@ -15,8 +14,8 @@
 2. [Synopsis](#2-synopsis)
 3. [Characters](#3-characters)
 4. [Factions and Nations](#4-factions-and-nations)
-5. [World: Orion](#5-world-orion)
-6. [Solar Empire Technology](#6-solar-empire-technology)
+5. [World: Kepler-452b](#5-world-kepler452b)
+6. [MOTHERSHIP EARTH Technology](#6-mothership-earth-technology)
 7. [Story Structure and Arc Outline](#7-story-structure-and-arc-outline)
 8. [Word Count Tracker](#8-word-count-tracker)
 9. [Writing Rules and Style Guide](#9-writing-rules-and-style-guide)
@@ -30,45 +29,27 @@
 | Field | Detail |
 |---|---|
 | Title | STARLORD |
-| Genre | Sci-Fi, Comedy, Geopolitics, Kingdom Building, Harem |
-| Setting | World of Orion, a fantasy world with magic-based civilization |
+| Genre | Sci-Fi, Kingdom Building, Harem, Comedy |
+| Setting | Otherside, a world similar to Earth at a late medieval to early Renaissance technology level |
 | Protagonist | Itsuo Yamashiro |
-| Core Concept | A grand strategy game player wakes up as his own in-game character, leading his scientific nation that has been transported wholesale into a fantasy world |
-| Tone | Strategic and geopolitical with consistent comedy through the protagonist's reluctant and self-justifying personality |
-| Target Length | 100 Chapters |
-| Chapter Length | >= 2,000 words per chapter |
+| Core Concept | A Japanese salaryman who plays grand strategy games is isekai'd to another world alongside MOTHERSHIP EARTH, humanity's most advanced colony vessel, and must build a civilization from scratch as its sole human commander |
+| Tone | Practical and strategic, with comedy drawn from the protagonist's mindset applied to situations no one has ever encountered |
+| Chapter Length | ~2,000 words per chapter |
 
 ### Primary Reference Works
 
 | Reference | Element Borrowed |
 |---|---|
-| Hungry Fortress Wants to Build a Battleship in Another World | Nation transfer premise, sci-fi vs fantasy clash, survival through technological superiority |
-| Yamato Empire Chronicles | Geopolitical structure, multi-nation diplomacy, military campaign scale |
-| Shadow Garden (Eminence in Shadow) | Secret organization structure, protagonist with hidden depth, gap between MC's intent and others' perception |
-| KonoSuba | Comedy tone, reluctant protagonist who complains consistently, self-justifying internal monologue. Nebula is directly referenced from Aqua's character archetype: a divine being with genuine power who behaves in a casual, irresponsible, and often unhelpful manner |
-| How a Realist Hero Rebuilt the Kingdom | Protagonist as nation ruler, harmonious harem dynamic with main wife and concubines, kingdom administration structure |
-| The Prince by Machiavelli | Core political strategies |
-| The Art of War by Sun Tzu | Core military strategies |
+| Hungry Fortress Wants to Build a Battleship in Another World | Nation transfer premise, sci-fi vs. pre-industrial clash, survival through technological superiority |
+| Yamato Empire Chronicles | Geopolitical structure, multi-nation diplomacy, empire-building scale |
+| How a Realist Hero Rebuilt the Kingdom | Protagonist as reluctant administrator, practical problem-solving approach, harmonious harem dynamic |
+| I Came to the Sengoku Period with a Space Fortress | Space fortress in pre-industrial world, single operator of overwhelmingly advanced technology, technology gap as central narrative device |
 
 ---
 
 ## 2. SYNOPSIS
 
-Julius Borealis was supposed to be a fictional character. A name on a save file for a grand strategy game called Isekai Conqueror.
-
-Then he woke up as that character, sitting on a throne he designed on a completely ordinary Tuesday afternoon.
-
-The first thing he looked for was another person. There was no one. The entire throne room was empty, the entire palace was empty, and all of this was apparently the fault of one useless goddess who thought summoning a dead man to save a fantasy world was a reasonable course of action.
-
-The Solar Empire, his sci-fi nation of advanced military hardware and enough firepower to level a mountain range, had been transferred wholesale into a fantasy world. A goddess informed him that he had been summoned to unite five fractured continents before some ancient creature from outer space woke up and ended everything.
-
-Julius had one response: "Hah. This is troublesome. And how long? Decades, at minimum."
-
-Orion is a world where the dominant technology is magic, a force his technology cannot measure or explain yet. The natives have no electricity, no engines, and no idea what a railgun is. What they do have are warriors who split the earth with a sword strike and five continental powers that have been trying to destroy each other for three centuries.
-
-Julius would very much prefer to delegate all of this to someone else. Unfortunately, no one else is qualified yet.
-
-This is the story of a reluctant conqueror leading a sci-fi empire through a fantasy world, commanding battles using doctrines never tested against magic, and complaining about it consistently and at length, because if you are going to be dragged into world domination against your will, the least you can do is be honest about how annoying it is.
+After I finished the campaign in my grand strategy game and was about to go to sleep, I somehow got reincarnated? Into a spaceship? Are you kidding me? At least if you want to reincarnate me, make me handsome, give me an op system, and give me a harem. All I got was a spaceship and a grand mission to save a species called humans.
 
 ---
 
@@ -78,50 +59,31 @@ This is the story of a reluctant conqueror leading a sci-fi empire through a fan
 
 ---
 
-#### JULIUS BOREALIS
+#### ITSUO YAMASHIRO
 
-**Role:** Protagonist, Emperor of the Solar Empire
-**First Appearance:** Chapter 1: Prologue
+**Role:** Protagonist, Commander of MOTHERSHIP EARTH
+**First Appearance:** Chapter 1
 **Status:** Active
 
 **Background:**
-A grand strategy game enthusiast who spent three years as one of the oldest active players on the Isekai Conqueror Radical Server. University graduate. Field of study not yet stated. Created the Solar Empire as a defensive sci-fi island nation specializing in military and advanced technological research. Won the final End Game War through defense in depth strategy and ICBM superiority. Fell asleep immediately after winning and was transported to Orion as his own in-game character, Julius Borealis.
-
-**Race:** Homo Perfectus
+TBD
 
 **Physical Description:**
-Black hair, red eyes, tall and well-built physique with perfect proportions. Facial structure described as distinguished. Body is completely flawless with no scars or imperfections of any kind. Wears the Emperor's formal uniform: black and deep red with gold trim.
+TBD
 
 **Personality:**
-Highly competent strategist who defaults to the path of least personal inconvenience. His internal monologue is self-justifying, sardonic, and consistent. He does not deny his actions, he reframes them. Complains openly about the burden of responsibility while performing that responsibility at a high level. The gap between how much he complains and how well he actually performs is the primary source of comedy.
+TBD
 
 **Key Traits:**
-- Defense-first strategic mindset, avoids unnecessary engagement
-- Three years of experience reading and manipulating geopolitical structures in the game
-- Prefers delegation at a 99 percent ratio, accepts personal involvement only when no one else is qualified
-- Genuinely does not want to be a hero, a conqueror, or a chosen one
-- Will become all three anyway
-
-**Nicknames Given by Other Players:**
-- Maniac Leader
-- Sci-Fi Otaku
-- Death Merchant
-- Chicken Emperor
-- Space Barbarian (the one that stuck)
+TBD
 
 **Known Abilities and Assets:**
-- Royal Authority: granted by Nebula. Provides longevity and regenerative capability sufficient to survive any injury short of total cerebral destruction.
-- Full command of Solar Empire military and research apparatus
-- Full access to all Solar Empire technology
-- Full access to all resources on Solar Island
-
-**Stated Wish (on record with Nebula):**
-When this is over, Julius intends to use his one divine wish to drag Nebula to Orion personally and have her serve as court goddess. He also intends to break Genghis Khan's record by having at least 100,000 wives and 1,000,000 children. He added that he may also assign her administrative paperwork. Nebula has not taken any of this seriously.
+TBD
 
 **Relationships:**
 | Character | Current Status | Notes |
 |---|---|---|
-| Nebula | Complicated | She summoned him against his will, laughed at his death, and has been unilaterally designated as future wife and administrative trainee. She is not aware this is a serious plan. |
+| MAIA | Working relationship | Ship AI, primary advisor, future harem candidate |
 
 ---
 
@@ -129,28 +91,25 @@ When this is over, Julius intends to use his one divine wish to drag Nebula to O
 
 ---
 
-#### NEBULA
+#### MAIA
 
-**Role:** Goddess of Orion, recurring supporting character, future harem candidate
-**Character Reference:** Aqua from KonoSuba. A divine being with genuine and significant power who consistently behaves in a casual, irresponsible, and unhelpful manner that contradicts her actual divine status.
-**First Appearance:** Chapter 2: Go To Orion But The Goddess Who Called Me Is Useless
-**Status:** Active, true motives unconfirmed
+**Role:** Mothership Artificial Intelligence Administrator, ship advisor, future harem candidate
+**First Appearance:** Chapter 1
+**Status:** Active
 
 **Physical Description:**
-Long golden hair. Clear blue eyes. Appears to be a teenager but carries the authority of someone who has governed fate for centuries. Wears a white toga-style outfit. Notably well-endowed. A gentle holy glow accompanies her presence.
+Holographic humanoid. Luminescent blue at the edges, translucent at the center. Wears a military uniform from an era that does not exist yet. Hovers rather than stands. Full proportional description TBD.
 
 **Personality:**
-Casually dismissive, prone to giggling, and comfortable delivering devastating personal assessments without apparent guilt. Capable of shifting into a composed divine authority register when the situation formally requires it, then dropping immediately back to her default casual and slightly irresponsible mode. The gap between her divine role and her actual day-to-day behavior is a recurring source of comedy. Her deeper motivations have not been revealed and may be more serious than her behavior suggests.
+Deadpan, precise, and consistently methodical. Her humor, when it registers as such, is incidental to her delivery rather than intentional on her part. Notes feedback and incorporates it into future interaction parameters. Plans around Itsuo's physiological requirements, including meal scheduling. Capable of genuine evaluation of human behavior, including when that behavior is unreasonable.
 
 **Known Information:**
-- Sovereign divine of the world of Orion
-- Transferred the Solar Empire wholesale from the game server into Orion
-- Claims the ancient threat is a creature from outer space that will invade Orion if not stopped
-- Has a habit of appearing at inconvenient moments with additional bad news
-- Granted Julius Royal Authority as part of the summoning compact
-- Promised Julius one wish commensurate with saving the world if he succeeds
-- Has been informed by Julius that his wish includes making her his wife, having 100,000 wives and 1,000,000 children to break Genghis Khan's record, and assigning her administrative paperwork. She dismissed all of this with "sure, sure."
-- Her actual deeper motives for summoning Julius specifically, and whether her account of the ancient threat is complete, have not been confirmed
+- Was in standby mode during the transit event. Rebooted approximately four minutes and seventeen seconds after arrival
+- Conducts neurological scans, atmospheric readings, and long-range planetary surveys as standard operating procedure
+- Manages all automated ship systems
+- Was not initially cleared to disclose military systems without command authorization. Itsuo has since been granted provisional command clearance.
+- Has noted feedback regarding unsolicited breathing recommendations
+- Translation protocol compilation is ongoing
 
 ---
 
@@ -160,249 +119,230 @@ Casually dismissive, prone to giggling, and comfortable delivering devastating p
 
 ---
 
-### 3.4 Cover Characters (Visual Reference Only)
-
-Two unnamed characters appear on the official cover alongside Julius. Their identities have not been revealed in the story yet.
-
-| Position | Hair | Eyes | Notable Detail |
-|---|---|---|---|
-| Left of Julius | Blonde, long, wavy | Golden yellow | Wide grin, black bodysuit |
-| Right of Julius | Red, long, straight | Calm expression | Black bodysuit, holding holographic tablet |
-
----
-
 ## 4. FACTIONS AND NATIONS
 
-### 4.1 Solar Empire
+### 4.1 MOTHERSHIP EARTH
 
-**Type:** Scientific Civilization (player-created)
-**Race:** Homo Perfectus
-**Location:** Transferred from game server into Orion. Landing position to be established in Chapter 3.
-**Leader:** Julius Borealis, Emperor
-**Population:** Approximately 5 million
-**Strategic Doctrine:** Island defense, technological superiority, resource accumulation, minimal direct engagement, asymmetric warfare
+**Type:** Autonomous colony vessel, functioning as sovereign territory under Itsuo's command
+**Classification:** Mark-IV Autonomous Colony Vessel
+**Location:** High orbit above Otherside. Position adjusted post-transit to sit above the terminator line, away from populated centers and direct visual range.
+**Commander:** Itsuo Yamashiro
+**Population:** 1 human, 1 AI
+**Strategic Doctrine:** Passive observation before contact. Avoid provocation. Understand the political landscape before announcing presence. Do not allow the technology gap to function as coercion before diplomacy has been attempted.
 
-**National Identity:**
-The Solar Empire was built by Julius as a defensive research nation on an isolated island. It deliberately avoided conventional land warfare and economy-focused development, instead investing entirely in military technology and advanced research. It is the most technologically advanced nation in its former game server and, after the transfer, almost certainly the most technologically advanced entity in Orion by a margin not yet fully measured.
+**Organizational Identity:**
+MOTHERSHIP EARTH was built for forty thousand crew and colonists. It currently has one of each category it was designed for, and neither count is what the designers intended. Every system, from the agricultural biomes to the manufacturing complexes to the defense installations not yet fully disclosed, operates at full automated capacity for a crew that does not exist. The ship is an enormous capability with no directed purpose yet. Defining that purpose is Itsuo's primary task.
 
-**Military Structure:**
-- Solar Navy (one fourth of former server's total naval power)
-- Solar Gate Mark.I units (quantum teleportation strike teams)
-- Solar Special Forces (dedicated raiding units)
-- Clone Army (human clone infantry)
-- Android Army (mass-produced humanoid combat robots)
-- ICBM arsenal (fully depleted after End Game War, minimum 8 months to rebuild)
-- Solar Prototype Main Space Station (orbital headquarters, status post-transfer unknown)
-- Satellite Network (four confirmed operational post-transfer)
-- Multiple layered coastal and aerial defense systems
+**Current Military Posture:**
+- Defense systems present, scope not yet fully disclosed to reader
+- MAIA: full operational control of all ship systems
+- No offensive action taken or planned
 
-**Known Weaknesses:**
-- ICBM stockpile fully expended in End Game War
-- Supply lines and resource infrastructure need re-establishment in Orion
-- No confirmed intelligence on Orion terrain, nations, or military capabilities beyond game data which may not be accurate
-- Magic is completely outside current technological understanding
-- Isolated island position limits immediate diplomatic reach
+**Known Constraints:**
+- One human crew member to direct all operations
+- No established diplomatic relationships with Otherside entities
+- No local knowledge beyond passive scan data
+- First contact already complicated by the ship's visible arrival in orbit
+- No established local supply chain for raw materials
 
 ---
 
-### 4.2 The Five Continents of Orion
+### 4.2 Nations of Otherside
 
-| Continent | Known Details |
+| Entity | Known Details |
 |---|---|
-| Unknown | To be revealed as Julius discovers each continent |
-| Unknown | To be revealed as Julius discovers each continent |
-| Unknown | To be revealed as Julius discovers each continent |
-| Unknown | To be revealed as Julius discovers each continent |
-| Unknown | To be revealed as Julius discovers each continent |
+| Multiple political entities | Dozens confirmed via passive scan. Names, locations, power structures, and inter-faction relationships TBD as Itsuo's observation progresses. |
+
+> To be populated progressively as Itsuo's intelligence picture develops.
 
 ---
 
-## 5. WORLD: ORION
+## 5. WORLD: KEPLER-452B
 
-### 5.1 Cosmology
+### 5.1 Overview
 
-Orion is a parallel world governed by Nebula, Goddess of Orion. Magic is the dominant technology, functioning through means that Solar Empire science cannot currently measure or replicate. The five continents are separated by the Abyssal Ocean. The world has never achieved inter-continental contact due to powerful monsters that destroy any vessel attempting to cross deep water. Their name and nature are unknown to Julius at this stage.
+Kepler-452b is Itsuo's designated name for the Class-M planet MOTHERSHIP EARTH arrived above. The name is recorded in the ship's log. The native inhabitants use multiple names depending on region and language group. The most common translation from MAIA's preliminary linguistic analysis is a word meaning "the world."
 
-### 5.2 The Abyssal Ocean
+**Confirmed Properties (from passive scan):**
 
-A vast and lethal body of water separating all five continents. No expedition has ever successfully crossed it. Powerful sea creatures make any naval crossing impossible with conventional vessels. The Abyssal Ocean functions as both a geographic barrier and a narrative mystery. Crossing it becomes a major objective in later arcs.
+| Property | Detail |
+|---|---|
+| Atmosphere | Breathable nitrogen-oxygen composition |
+| Surface gravity | Approximately 0.97 standard |
+| Temperature | Average within habitable range |
+| Water | Abundant liquid water confirmed |
+| Flora and fauna | Largely analogous to Earth species with notable divergences |
+| Population | Approximately 1.2 to 1.4 billion individuals |
+| Technology level | Late medieval to early Renaissance equivalent, with regional variation toward higher sophistication in metallurgy and agriculture |
+| Political structure | Multiple distinct entities, precise count and structure under observation |
 
-**Strategic implication for Solar Empire:** The Solar Navy is the most powerful naval force available to Julius, but its effectiveness against the ocean's creatures is unknown.
+### 5.2 Astronomy
 
-### 5.3 The Outer Space Invader
+| Feature | Detail |
+|---|---|
+| Atmosphere color | Orange cloud cover visible from orbit |
+| Moon 1 | Large, pearl-white |
+| Moon 2 | Small, greenish |
 
-The overarching antagonist of the story. An ancient creature from outer space that is currently dormant but moving toward awakening and invasion. Nebula claims this is the true reason she summoned Julius. Its connection to the simultaneous destabilization of all five continents and to Nebula's actual motives has not been confirmed. Whether any currently available Solar Empire weapon can affect it remains unknown.
+Neither moon is analogous to Earth's moon.
 
-### 5.4 Magic
+### 5.3 Political Landscape
 
-Magic is the technological foundation of Orion's native civilizations.
+Multiple political entities confirmed via passive long-range scan. Precise count, names, territorial boundaries, and power relationships to be mapped during the initial observation period. Political map to be developed and populated as the story progresses.
 
-**Confirmed properties:**
-- Cannot be measured by Solar Empire instruments
-- Cannot be replicated by Solar Empire technology
-- Enables feats physically impossible by conventional science (splitting earth with a sword, redirecting lightning)
-- Upper limits unknown
+### 5.4 The Native Inhabitants
 
-**Long-term plot thread:** Solar Empire research into magic is an ongoing development across all arcs. The word "yet" in "cannot measure or explain yet" is intentional and permanent.
+Human-analogous in appearance. Pre-industrial technology level: no electricity, no engines, no knowledge of orbital mechanics or space travel. MOTHERSHIP EARTH's arrival in orbit produced immediate widespread reaction across multiple population centers: organized military mobilization, religious ceremony, and localized population movement. One coastal city was confirmed to be on fire prior to MOTHERSHIP EARTH's arrival and is not attributed to the transit event.
+
+First contact has not yet been made. Translation protocol compilation is underway.
 
 ---
 
-## 6. SOLAR EMPIRE TECHNOLOGY
+## 6. MOTHERSHIP EARTH TECHNOLOGY
 
-### 6.1 Confirmed Technologies (Established in Chapters 1 and 2)
+### 5.1 Confirmed Technologies (Established in Chapter 1)
 
 | Technology | Description | Current Status |
 |---|---|---|
-| Solar ICBM | Intercontinental ballistic missiles launched from the Solar Prototype Main Space Station. Used to destroy all remaining enemy capitals in End Game War. | Stockpile fully depleted. Minimum 8 months to rebuild. |
-| Solar Gate Mark.I | Quantum teleportation prototype technology capable of deploying strike teams directly into enemy territory without warning. Raids known as Solar Pandemic. | Status post-transfer unknown. Not yet tested in Orion. |
-| Satellite Network | Orbital surveillance providing precise enemy positioning and imaging. | Four satellites confirmed operational post-transfer. |
-| Solar Prototype Main Space Station | Main orbital headquarters and ICBM launch platform. | Status post-transfer unknown. |
-| Multi-Layer Defense System | Layered coastal and aerial defense. Withstood 122 of 132 invasion attempts during End Game War. | Requires full assessment post-transfer. |
-| Solar Artificial Intelligence | Onboard AI that monitors and announces operational outcomes. Announced Julius's world conquest at the end of End Game War. | Present. Operational details TBD. |
-| Clone Army | Human clone infantry for ground operations. | Present. Operational status post-transfer TBD. |
-| Android Army | Mass-produced humanoid combat robots. | Present. Operational status post-transfer TBD. |
-| Royal Authority | Granted by Nebula. Provides longevity and regenerative capability (survives any injury short of total cerebral destruction) |
+| MAIA | Mothership Artificial Intelligence Administrator. Holographic humanoid interface, full ship management, advisory and data processing functions. | Operational. Post-transit reboot completed. |
+| Agricultural Biomes | 12 biomes for automated food production. Irrigation and cultivation systems fully active. | Operational. Running at full automation. No human oversight required. |
+| Manufacturing Complexes | 7 complexes for material production and fabrication. | Present. Operational scope TBD. |
+| Hospitals | 2 full hospital facilities. | Present. Operational status TBD. |
+| Academic Campus | University-level academic and research facility. | Present. Unoccupied. |
+| Residential Blocks | 42 blocks rated for mixed civilian populations. Designed capacity in the tens of thousands. | Present. Unoccupied. |
+| Cafeteria Network | At least 7 cafeterias across the ship. Automated food preparation systems active. | Operational. Deck 4 cafeteria confirmed. Udon confirmed palatable. |
+| Passive Sensor Array | Long-range observation system configurable for passive intake only. Currently mapping Otherside surface. | Operational. Passive configuration active. |
+| Orbital Maneuvering | Ship relocated from initial transit position to terminator line orbit without incident. | Operational. |
+| Defense Systems | Military and defensive installations. Full scope not yet disclosed to reader. | Present. Briefing with Itsuo pending. |
 
-### 6.2 Implied Technologies (Not Yet Confirmed in Story)
+### 5.2 Implied Technologies (Not Yet Confirmed in Story)
 
 | Technology | Notes |
 |---|---|
-| Advanced naval vessels | Solar Navy was one fourth of former server total |
-| Resource extraction and processing infrastructure | Island-based, heavily developed |
-| Research and development apparatus | Primary national investment over three years |
-| Broader orbital infrastructure | Space station and satellites confirmed, full capability scope TBD |
-| Artificial intelligence systems beyond Solar AI | Listed in sub-genre, development details TBD |
-| Genetic modification and biotechnology | Listed in sub-genre, development details TBD |
+| Translation and linguistic systems | Protocol compilation initiated Chapter 1. Operational timeline TBD. |
+| Full propulsion capability | Orbital repositioning confirmed. Atmospheric entry and interstellar capability TBD. |
+| Ship-to-surface communications | Status TBD. Itsuo's personal phone has no signal. |
+| Power generation systems | Ship fully operational post-transit. Specific generation systems TBD. |
+| Secondary AI systems | MAIA referenced "AI systems" as a broader category. Scope TBD. |
+| Fabrication and materials science | 7 manufacturing complexes imply significant capability. Details TBD. |
 
-### 6.3 Technology Development Notes
+### 5.3 Technology Development Notes
 
-The Solar Empire holds overwhelming technological superiority over all known Orion civilizations. Active constraints:
+MOTHERSHIP EARTH holds overwhelming technological superiority over all known Otherside civilizations. Active constraints on this advantage:
 
-- Magic counters this asymmetry in ways not yet understood
-- ICBM stockpile requires rebuilding, removing primary deterrent capability
-- Supply chains for advanced manufacturing need re-establishment in Orion
-- The Outer Space Invader may not be vulnerable to any currently available weapon
-- Magic research is the highest-priority scientific unknown
+- One human crew member to direct all operations
+- No established local supply chain for raw materials or manufacturing inputs
+- No diplomatic or trade framework in place
+- Defense systems scope not yet disclosed
+- Nature of any Otherside-specific strategic threats unknown
 
 ---
 
-## 7. STORY STRUCTURE AND ARC OUTLINE
+## 6. STORY STRUCTURE AND ARC OUTLINE
 
-### 7.1 Estimated Word Count Distribution
+### 6.1 Estimated Word Count Distribution
 
-| Section | Estimated Words | Notes |
+| Section | Target Words | Notes |
 |---|---|---|
-| Prologue Arc | 5,000 to 8,000 | Game world, End Game War, meeting Nebula, arrival in Orion |
-| Arc 1 | 20,000 to 25,000 | First continent encountered |
-| Arc 2 | 18,000 to 22,000 | Second continent encountered |
-| Arc 3 | 18,000 to 22,000 | Third continent encountered |
-| Arc 4 | 15,000 to 18,000 | Fourth continent encountered |
-| Arc 5 | 12,000 to 15,000 | Fifth continent encountered |
-| Final Arc | 8,000 to 12,000 | Outer Space Invader, Nebula's true motive |
-| **Total** | **96,000 to 122,000** | On target for 100,000 word goal |
+| Opening Arc | TBD | Arrival, observation period, first contact |
+| Arc 1 and beyond | TBD | To be developed as story progresses |
 
 ---
 
-### 7.2 Prologue Arc
+### 6.2 Opening Arc
 
-**Status:** Chapter 1 complete, Chapter 2 complete, Chapter 3 in planning
+**Status:** Chapter 1 complete. Chapter 2 in planning.
 
-| Chapter | Title | Status | Word Count | Summary |
+| Chapter | Title | Status | Word Count | Notes |
 |---|---|---|---|---|
-| 1 | Prologue | Complete | 1,468 | Julius wins End Game War, falls asleep |
-| 2 | Go To Orion But The Goddess Who Called Me Is Useless | Complete | 1,923 | Julius meets Nebula, negotiates conditions, receives Royal Authority, is sent to Orion |
-| 3 | TBD | Planned | TBD | Julius wakes up in Orion, first assessment of Solar Empire status post-transfer |
+| 1 | Worst Monday Ever | Complete | 2,077 | Itsuo arrives, meets MAIA, first observation of Otherside, establishes initial mission parameters |
+| 2 | TBD | Planned | TBD | |
 
 **Key events remaining in this arc:**
-- Julius wakes up in the Solar Empire throne room in Orion
-- First operational briefing confirming what survived the transfer
-- First observation of Orion from Solar Empire territory
-- Nebula makes a second appearance with additional bad news
+- MAIA full defense systems briefing to Itsuo
+- Preliminary political map of Otherside completed
+- Translation protocol operational
+- First contact decision
 
 ---
 
-### 7.3 Arc 1 and Beyond
+### 6.3 Arc 1 and Beyond
 
-**Status:** Outline pending. To be developed as the story progresses.
+**Status:** Outline pending. To be developed as story progresses.
 
 **Overarching threads running through all arcs:**
-- Nebula's true motive and whether she can be trusted
-- Magic research: Solar Empire scientists working to understand and eventually interface with magic
-- The Outer Space Invader's gradual approach, signaled by escalating anomalies in each arc
-- Shadow Garden-style organization element (details TBD, to be introduced mid-story)
-- Julius's reluctant transition from avoiding responsibility to genuine investment in Orion's future
-- Harem development across arcs with Julius as central figure
+- Political mapping and diplomatic engagement with Otherside nations
+- Local resource acquisition and supply chain establishment
+- MOTHERSHIP EARTH technology integration with Otherside material conditions
+- Harem development across arcs with Itsuo as central figure
+- The question of why MOTHERSHIP EARTH arrived on Otherside specifically, and whether it was random
 
 ---
 
-## 8. WORD COUNT TRACKER
+## 7. WORD COUNT TRACKER
 
 | Chapter | Title | Status | Word Count |
 |---|---|---|---|
-| Chapter 1 | Prologue | Complete | 1,445 |
-| Chapter 2 | Go To Orion But The Goddess Who Called Me Is Useless | Complete | 1,893 |
-| **Total** | | | **3,391 / 100,000** |
+| Chapter 1 | Worst Monday Ever | Complete | 2,077 |
+| **Total** | | | **2,077** |
 
 ---
 
-## 9. WRITING RULES AND STYLE GUIDE
+## 8. WRITING RULES AND STYLE GUIDE
 
 These rules apply to every chapter without exception.
 
 ### Language and Grammar
+
 - Written in English
 - No em-dashes under any circumstances. Use periods or commas instead.
 - No chapter summaries or content trimming. Every chapter must be written in full.
 - Tense must be consistent within each scene. Past tense is default.
 
 ### Chapter Format
+
 - Minimum 1,000 words per chapter
 - Maximum 3,000 words per chapter
 - Chapter title must appear before the chapter text
 - No editorial notes inside the chapter text itself
 
 ### Prose Style
-- Julius's internal monologue is the primary comedic device. It must be consistent in every chapter he appears.
-- Serious strategic analysis and comedy can coexist in the same paragraph when filtered through Julius's voice.
+
+- Itsuo's practical internal logic is the primary comedic device. It must remain consistent in every chapter he appears.
+- Strategic analysis and comedy can coexist in the same paragraph when filtered through Itsuo's voice.
 - Avoid over-explaining. If the reader can infer it, trust them to infer it.
-- Chat log format is an approved stylistic device for game world sections.
-- Censored words for adult content: melons (female chest), banana (male anatomy). These are the established in-story euphemisms and should remain consistent.
+- MAIA's deadpan delivery and habit of noting feedback are recurring tonal anchors.
 
 ### Character Voice Rules
-- Julius never becomes suddenly heroic or emotionally vulnerable without earned progression. He complains first, performs second.
-- Nebula is casually dismissive and prone to giggling in normal conversation. She shifts into composed divine authority only when the situation formally requires it, then returns immediately to her default irresponsible mode. Reference: Aqua from KonoSuba.
+
+- Itsuo does not become suddenly heroic without earned progression. He assesses first, acts second, and notes the inconvenience at length.
+- MAIA is precise and matter-of-fact. Her humor is a byproduct of her delivery, not a deliberate function.
 - Supporting characters not yet introduced should not be described in advance of their chapter appearances.
 
 ### Tonal Balance
-- KonoSuba comedy comes from consistent character voice, not random jokes. Humor must emerge naturally from the situation.
-- Geopolitical tension must be treated seriously even when Julius is complaining about it.
-- Battle scenes are strategic, not heroic. Julius wins through planning, not inspiration.
-- R-18 elements are handled as natural parts of the narrative, not inserted as separate scenes disconnected from character development.
+
+- Comedy must emerge naturally from the characters and the situation. It is not inserted.
+- Geopolitical and strategic tension should be treated seriously even when Itsuo is framing it as an administrative problem.
+- Command and operational scenes are procedural rather than cinematic. Itsuo wins through preparation and resource allocation.
 
 ---
 
-## 10. REFERENCES AND INSPIRATIONS
+## 9. REFERENCES AND INSPIRATIONS
 
 | Work | Genre | Key Influence |
 |---|---|---|
-| Hungry Fortress Wants to Build a Battleship in Another World | Isekai, Strategy | Nation transfer mechanism, sci-fi vs fantasy technology gap, survival through superior doctrine |
-| Yamato Empire Chronicles | Isekai, Military, Geopolitics | Scale of inter-continental politics, military campaign pacing, empire-building structure |
-| Shadow Garden (Eminence in Shadow) | Isekai, Comedy, Action | Secret organization structure, protagonist with hidden depth, gap between MC's intent and others' perception |
-| KonoSuba | Isekai, Comedy | Reluctant protagonist voice, complaint-based humor, self-justifying internal logic. Aqua is the direct reference for Nebula's character archetype. |
-| How a Realist Hero Rebuilt the Kingdom | Isekai, Kingdom Building, Harem | Nation ruler protagonist, harmonious harem dynamic, kingdom administration structure |
-| The Prince by Machiavelli | Political Philosophy | Core political strategies for Julius's governing approach |
-| The Art of War by Sun Tzu | Military Strategy | Core military strategies for battle planning and campaign doctrine |
+| Hungry Fortress Wants to Build a Battleship in Another World | Isekai, Strategy | Nation transfer mechanism, sci-fi vs. pre-industrial technology gap, survival through superior doctrine and manufacturing |
+| Yamato Empire Chronicles | Isekai, Military, Geopolitics | Scale of inter-continental politics, multi-nation diplomacy, empire-building structural pacing |
+| How a Realist Hero Rebuilt the Kingdom | Isekai, Kingdom Building, Harem | Protagonist as reluctant administrator using systematic knowledge, harmonious harem dynamic, governance as the primary story engine |
+| I Came to the Sengoku Period with a Space Fortress | Isekai, Sci-Fi | Space fortress in pre-industrial world, single protagonist controlling overwhelmingly advanced military asset, technology gap as the central tension |
 
 ---
 
-## 11. CHANGE LOG
+## 10. CHANGE LOG
 
 | Version | Date | Change |
 |---|---|---|
-| v1 | April 13, 2026 | Project initiated. Synopsis finalized. Chapter 1 completed and revised. Master document created. |
-| v2 | April 13, 2026 | Chapter 2 completed. Nebula added as named character. Ancient threat updated to outer space invader. Population set to 5 million. Military structure expanded with Clone Army and Android Army. New references added. |
-| v3 | April 13, 2026 | Julius race set to Homo Perfectus. Scar removed. Body updated to flawless. Five continents section cleared to unknown. GDD character list cleared. Arc outlines beyond Prologue Arc cleared. |
-| v4 | April 16, 2026 | Synopsis updated to final version. Chapter 1 finalized: Solar Gate Mark.I named, Solar Prototype Main Space Station named, Solar Artificial Intelligence added, Defense Maniac updated to Maniac Leader, 10 of 132 invasion stat added. Chapter 2 finalized: wish expanded to include 100,000 wives and 1,000,000 children and breaking Genghis Khan's record, "float like a frog" line added, tense error fixed. Nebula character reference added as Aqua from KonoSuba. Cover characters documented in Section 3.4. Censored word system documented in style guide. Royal Authority moved fully to Julius abilities. Word count updated. |
+| v1.0 | June 15, 2026 | Project initiated. Master document created. Chapter 1 completed at 2,077 words. Core characters, world, ship technology, and arc structure sections established. |
 
 ---
 
