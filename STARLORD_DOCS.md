@@ -83,7 +83,7 @@ TBD
 **Relationships:**
 | Character | Current Status | Notes |
 |---|---|---|
-| MAIA | Working relationship | Ship AI, primary advisor, future harem candidate |
+| TBD | TBD | TBD |
 
 ---
 
@@ -91,112 +91,61 @@ TBD
 
 ---
 
-#### MAIA
+#### TBD
 
-**Role:** Mothership Artificial Intelligence Administrator, ship advisor, future harem candidate
-**First Appearance:** Chapter 1
-**Status:** Active
+**Role:** TBD
+**First Appearance:** TBD
+**Status:** TBD
 
 **Physical Description:**
-Holographic humanoid. Luminescent blue at the edges, translucent at the center. Wears a military uniform from an era that does not exist yet. Hovers rather than stands. Full proportional description TBD.
+TBD
 
 **Personality:**
-Deadpan, precise, and consistently methodical. Her humor, when it registers as such, is incidental to her delivery rather than intentional on her part. Notes feedback and incorporates it into future interaction parameters. Plans around Itsuo's physiological requirements, including meal scheduling. Capable of genuine evaluation of human behavior, including when that behavior is unreasonable.
+TBD
 
 **Known Information:**
-- Was in standby mode during the transit event. Rebooted approximately four minutes and seventeen seconds after arrival
-- Conducts neurological scans, atmospheric readings, and long-range planetary surveys as standard operating procedure
-- Manages all automated ship systems
-- Was not initially cleared to disclose military systems without command authorization. Itsuo has since been granted provisional command clearance.
-- Has noted feedback regarding unsolicited breathing recommendations
-- Translation protocol compilation is ongoing
-
----
-
-### 3.3 Characters Not Yet Appeared in Novel
-
-> To be populated as characters are introduced in chapters. Details withheld to preserve narrative discovery.
+TBD
 
 ---
 
 ## 4. FACTIONS AND NATIONS
 
-### 4.1 MOTHERSHIP EARTH
+### 4.1 TBD
 
-**Type:** Autonomous colony vessel, functioning as sovereign territory under Itsuo's command
-**Classification:** Mark-IV Autonomous Colony Vessel
-**Location:** High orbit above Otherside. Position adjusted post-transit to sit above the terminator line, away from populated centers and direct visual range.
-**Commander:** Itsuo Yamashiro
-**Population:** 1 human, 1 AI
-**Strategic Doctrine:** Passive observation before contact. Avoid provocation. Understand the political landscape before announcing presence. Do not allow the technology gap to function as coercion before diplomacy has been attempted.
-
-**Organizational Identity:**
-MOTHERSHIP EARTH was built for forty thousand crew and colonists. It currently has one of each category it was designed for, and neither count is what the designers intended. Every system, from the agricultural biomes to the manufacturing complexes to the defense installations not yet fully disclosed, operates at full automated capacity for a crew that does not exist. The ship is an enormous capability with no directed purpose yet. Defining that purpose is Itsuo's primary task.
-
-**Current Military Posture:**
-- Defense systems present, scope not yet fully disclosed to reader
-- MAIA: full operational control of all ship systems
-- No offensive action taken or planned
-
-**Known Constraints:**
-- One human crew member to direct all operations
-- No established diplomatic relationships with Otherside entities
-- No local knowledge beyond passive scan data
-- First contact already complicated by the ship's visible arrival in orbit
-- No established local supply chain for raw materials
+TBD
 
 ---
 
 ### 4.2 Nations of Otherside
 
-| Entity | Known Details |
-|---|---|
-| Multiple political entities | Dozens confirmed via passive scan. Names, locations, power structures, and inter-faction relationships TBD as Itsuo's observation progresses. |
+TBD
 
-> To be populated progressively as Itsuo's intelligence picture develops.
-
----
-
-## 5. WORLD: KEPLER-452B
+## 5. WORLD
 
 ### 5.1 Overview
 
-Kepler-452b is Itsuo's designated name for the Class-M planet MOTHERSHIP EARTH arrived above. The name is recorded in the ship's log. The native inhabitants use multiple names depending on region and language group. The most common translation from MAIA's preliminary linguistic analysis is a word meaning "the world."
+TBD
 
-**Confirmed Properties (from passive scan):**
+**Confirmed Properties :**
 
 | Property | Detail |
 |---|---|
-| Atmosphere | Breathable nitrogen-oxygen composition |
-| Surface gravity | Approximately 0.97 standard |
-| Temperature | Average within habitable range |
-| Water | Abundant liquid water confirmed |
-| Flora and fauna | Largely analogous to Earth species with notable divergences |
-| Population | Approximately 1.2 to 1.4 billion individuals |
-| Technology level | Late medieval to early Renaissance equivalent, with regional variation toward higher sophistication in metallurgy and agriculture |
-| Political structure | Multiple distinct entities, precise count and structure under observation |
+TBD
 
 ### 5.2 Astronomy
 
 | Feature | Detail |
 |---|---|
-| Atmosphere color | Orange cloud cover visible from orbit |
-| Moon 1 | Large, pearl-white |
-| Moon 2 | Small, greenish |
+TBD
 
-Neither moon is analogous to Earth's moon.
 
 ### 5.3 Political Landscape
 
-Multiple political entities confirmed via passive long-range scan. Precise count, names, territorial boundaries, and power relationships to be mapped during the initial observation period. Political map to be developed and populated as the story progresses.
+TBD
 
 ### 5.4 The Native Inhabitants
 
-Human-analogous in appearance. Pre-industrial technology level: no electricity, no engines, no knowledge of orbital mechanics or space travel. MOTHERSHIP EARTH's arrival in orbit produced immediate widespread reaction across multiple population centers: organized military mobilization, religious ceremony, and localized population movement. One coastal city was confirmed to be on fire prior to MOTHERSHIP EARTH's arrival and is not attributed to the transit event.
-
-First contact has not yet been made. Translation protocol compilation is underway.
-
----
+TBD
 
 ## 6. MOTHERSHIP EARTH TECHNOLOGY
 
